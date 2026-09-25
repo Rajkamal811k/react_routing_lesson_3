@@ -1,0 +1,11 @@
+{
+  "name": "react_routing_lesson_3",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix my-project run dev",
+    "build": "npm --prefix my-project run build",
+    "lint": "npm --prefix my-project run lint",
+    "preview": "npm --prefix my-project run preview"
+  }
+}
